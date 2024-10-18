@@ -20,8 +20,8 @@ Step 6: Analyzing the dataset using visualizing tools form matplot library or se
 ## CODING AND OUTPUT:
 
 ```
-Developed by: Manoj Kumar S
-Register no: 212221230056
+Developed by: Subramaniya Pillai B 
+Register no: 212221230109
 ```
 
 ### Importing Libraries
